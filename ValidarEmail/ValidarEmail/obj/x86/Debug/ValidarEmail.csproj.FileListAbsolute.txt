@@ -1,0 +1,16 @@
+C:\Users\Matheus\Desktop\ValidarEmail\ValidarEmail\bin\Debug\ValidarEmail.exe
+C:\Users\Matheus\Desktop\ValidarEmail\ValidarEmail\bin\Debug\ValidarEmail.pdb
+C:\Users\Matheus\Desktop\ValidarEmail\ValidarEmail\obj\x86\Debug\ValidarEmail.Form1.resources
+C:\Users\Matheus\Desktop\ValidarEmail\ValidarEmail\obj\x86\Debug\ValidarEmail.Properties.Resources.resources
+C:\Users\Matheus\Desktop\ValidarEmail\ValidarEmail\obj\x86\Debug\ValidarEmail.csproj.GenerateResource.Cache
+C:\Users\Matheus\Desktop\ValidarEmail\ValidarEmail\obj\x86\Debug\ValidarEmail.exe
+C:\Users\Matheus\Desktop\ValidarEmail\ValidarEmail\obj\x86\Debug\ValidarEmail.pdb
+C:\Users\Matheus\Desktop\ValidarEmail\ValidarEmail\obj\x86\Debug\ValidarEmail.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\ValidarEmail\ValidarEmail\obj\x86\Debug\ValidarEmail.exe
+C:\Users\Matheus\ValidarEmail\ValidarEmail\obj\x86\Debug\ValidarEmail.pdb
+C:\Users\Matheus\ValidarEmail\ValidarEmail\bin\Debug\ValidarEmail.exe
+C:\Users\Matheus\ValidarEmail\ValidarEmail\bin\Debug\ValidarEmail.pdb
+C:\Users\Matheus\ValidarEmail\ValidarEmail\obj\x86\Debug\ValidarEmail.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\ValidarEmail\ValidarEmail\obj\x86\Debug\ValidarEmail.Form1.resources
+C:\Users\Matheus\ValidarEmail\ValidarEmail\obj\x86\Debug\ValidarEmail.Properties.Resources.resources
+C:\Users\Matheus\ValidarEmail\ValidarEmail\obj\x86\Debug\ValidarEmail.csproj.GenerateResource.Cache
